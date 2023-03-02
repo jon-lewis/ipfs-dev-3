@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  Boilerplate Template React
+  Boilerplate Template IPFS
   <br />
   <br />
   <a href="https://github.com/near/boilerplate-template-ipfs/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
